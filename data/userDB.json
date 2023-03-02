@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "password": "leanne1234",
+      "email": "Sincere@april.biz",
+      "gender": "male",
+      "address": {
+        "street": "Kulas Light",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "1-770-736-8031 x56442",
+      "urlImage": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "password": "ervin1234",
+      "email": "Shanna@melissa.tv",
+      "gender": "female",
+      "address": {
+        "street": "Victor Plains",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771"
+      },
+      "phone": "010-692-6593 x09125",
+      "urlImage": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "password": "clementine1234",
+      "email": "Nathan@yesenia.net",
+      "gender": "female",
+      "address": {
+        "street": "Douglas Extension",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      },
+      "phone": "1-463-123-4447",
+      "urlImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "password": "patricia1234",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "gender": "female",
+      "address": {
+        "street": "Hoeger Mall",
+        "city": "South Elvis",
+        "zipcode": "53919-4257"
+      },
+      "phone": "493-170-9623 x156",
+      "urlImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "password": "chelsey1234",
+      "email": "Lucio_Hettinger@annie.ca",
+      "gender": "male",
+      "address": {
+        "street": "Skiles Walks",
+        "city": "Roscoeview",
+        "zipcode": "33263"
+      },
+      "phone": "(254)954-1289",
+      "urlImage": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "password": "dennis1234",
+      "email": "Karley_Dach@jasper.info",
+      "gender": "male",
+      "address": {
+        "street": "Norberto Crossing",
+        "city": "South Christy",
+        "zipcode": "23505-1337"
+      },
+      "phone": "1-477-935-8478 x6430",
+      "urlImage": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "password": "kurtis1234",
+      "email": "Telly.Hoeger@billy.biz",
+      "gender": "male",
+      "address": {
+        "street": "Rex Trail",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      },
+      "phone": "210.067.6132",
+      "urlImage": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "password": "nickholas1234",
+      "email": "Sherwood@rosamond.me",
+      "gender": "male",
+      "address": {
+        "street": "Ellsworth Summit",
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      },
+      "phone": "586.493.6943 x140",
+      "urlImage": "https://images.unsplash.com/photo-1615813967515-e1838c1c5116?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "password": "glenna1234",
+      "email": "Chaim_McDermott@dana.io",
+      "gender": "female",
+      "address": {
+        "street": "Dayna Park",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109"
+      },
+      "phone": "(775)976-6794 x41206",
+      "urlImage": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "password": "clementina1234",
+      "email": "Rey.Padberg@karina.biz",
+      "gender": "female",
+      "address": {
+        "street": "Kattie Turnpike",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      },
+      "phone": "024-648-3804",
+      "urlImage": "https://images.unsplash.com/photo-1589696485114-9e2f81d83484?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI1fHxwZXJzb258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": 11,
+      "name": "alaa",
+      "username": "alaa55",
+      "password": "alaa1234",
+      "email": "alaa@alaa.com",
+      "gender": "maie",
+      "address": {
+        "city": "Gothenberg",
+        "street": "gunnebogatan",
+        "zipcode": "128"
+      },
+      "phone": "123456789",
+      "urlImage": "https://images.unsplash.com/photo-1518644730709-0835105d9daa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjc4fHxwZXJzb258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+    }
+  ]
+}

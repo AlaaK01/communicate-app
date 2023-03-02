@@ -1,0 +1,179 @@
+.main-title,
+.main-title-number {
+  height: 40px;
+  margin: 1.5rem 0 1rem 39%;
+  font-weight: 700;
+  font-size: 42px;
+  font-family: "Frijole", cursive;
+  color: black;
+  text-shadow: 1px 1px 10px black;
+}
+.main-title-number {
+  padding-left: 6%;
+}
+
+.posts {
+  width: 95%;
+  height: 100%;
+  display: grid;
+  grid-template: auto / repeat(3, 30fr);
+  justify-items: center;
+  row-gap: 5rem;
+
+  padding-left: 1.5%;
+}
+
+.post {
+  width: 80%;
+  height: 60vh;
+  margin-bottom: 5rem;
+  border: 5px solid rgb(187, 203, 208);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.post-body {
+  width: 90%;
+  height: 100%;
+  padding: 5%;
+
+  background-color: aliceblue;
+}
+
+.post-text {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+.post-title {
+  width: 90%;
+  height: 160px;
+}
+.post-title,
+.add-post-title {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Frijole", cursive;
+  color: black;
+  text-shadow: 1px 1px 10px black;
+}
+
+.add-post-title {
+  margin-left: 40%;
+}
+.post-details,
+.post-button {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.post-body-image {
+  width: 100px;
+  height: 100px;
+  margin-top: 1rem;
+}
+.user-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50px;
+}
+.post input[type="checkbox"]:focus + label {
+  text-decoration: underline;
+}
+
+.post svg {
+  width: 48px;
+  min-width: 48px;
+  height: 36px;
+  font-size: 1rem;
+  color: steelblue;
+  cursor: pointer;
+  margin-right: 1.4rem;
+}
+
+.post svg:focus,
+.post svg:hover {
+  color: red;
+  outline: none;
+}
+
+.addForm {
+  width: 90%;
+  display: flex;
+  justify-content: flex-start;
+  margin: 0.5rem 0 0;
+  padding-left: 5%;
+  border-bottom: 1px solid #eee;
+}
+
+.addForm label {
+  position: absolute;
+  left: -99999px;
+}
+
+.addForm input[type="text"],
+.addForm input[type="number"] {
+  flex-grow: 1;
+  max-width: calc(100% - 50px);
+  min-height: 32px;
+  font-size: 1rem;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  margin-right: 0.25rem;
+  outline: none;
+}
+.addForm input[type="checkbox"] {
+  width: 32px;
+  max-width: calc(100% - 50px);
+  min-height: 32px;
+  font-size: 1rem;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  margin-right: 0.25rem;
+  outline: none;
+}
+
+.add-to-favorite,
+.add-to-post {
+  height: 2.2rem;
+  min-width: 7rem;
+  border-radius: 0.25rem;
+
+  font-size: 1rem;
+  background-color: aliceblue;
+  color: mediumblue;
+  cursor: pointer;
+  margin: 1rem;
+}
+
+button:focus,
+button:hover {
+  color: white;
+  background-color: limegreen;
+  outline: none;
+}
+
+.searchForm {
+  width: 90%;
+  padding-left: 4%;
+  display: flex;
+  margin-bottom: 4rem;
+  margin-top: 4rem;
+}
+.searchForm label {
+  position: absolute;
+  left: -99999px;
+}
+
+.searchForm input[type="text"] {
+  flex-grow: 1;
+  max-width: 100%;
+  min-height: 32px;
+  font-size: 1rem;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  outline: none;
+}
